@@ -1,6 +1,16 @@
 ### Hey There 👋
 
-I recently decided to pursue software engineering as a career path, so here I am. I started with a couple bootcamp's basic prep courses, and some miscellaneous Youtube videos. I ended up going through one of the bootcamps (Hack Reactor) and am now looking for my first development role! 
+I recently decided to pursue software engineering as a career path, so here I am. I started with a couple bootcamp's basic prep courses, and some miscellaneous Youtube videos. I ended up going through one of the bootcamps (Hack Reactor) and am now looking for my first development role!
+
+The primary technologies I am comfortable with can be found below, but I've also touched on these...
+- MySQL
+- MongoDB / Mongoose
+- Docker
+- AWS EC2s
+- Artillery.io
+- Webpack
+- Babel
+- TypeScript
 
 <!--
 **AlexArms/AlexArms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
