@@ -11,6 +11,8 @@ The primary technologies I am comfortable with can be found below, but I've also
 - Webpack
 - Babel
 - TypeScript
+- SCSS
+- styled components
 
 <!--
 **AlexArms/AlexArms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
