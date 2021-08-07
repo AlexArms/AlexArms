@@ -2,7 +2,7 @@
 
 I recently decided to pursue software engineering as a career path, so here I am. I started with a couple bootcamp's basic prep courses, and some miscellaneous Youtube videos. I ended up going through one of the bootcamps (Hack Reactor) and am now looking for my first development role!
 
-The primary technologies I am comfortable with can be found below, but I've also touched on these...
+The primary technologies I am comfortable with can be found below, but I've also got some expeirence wit these...
 - MySQL
 - MongoDB / Mongoose
 - Docker
