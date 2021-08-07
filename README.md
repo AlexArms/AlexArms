@@ -1,5 +1,7 @@
 ### Hey There 👋
 
+I recently decided to pursue software engineering as a career path, so here I am. I started with a couple bootcamp's basic prep courses, and some miscellaneous Youtube videos. I ended up going through one of the bootcamps (Hack Reactor) and am now looking for my first development role! 
+
 <!--
 **AlexArms/AlexArms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
