@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 
 ## Contact
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexarms/)
+<!-- [![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/) -->
 
 ## Technologies
 
@@ -44,9 +45,5 @@ Here are some ideas to get you started:
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![]()
-![]()
-![]()
-![]()
 
 
