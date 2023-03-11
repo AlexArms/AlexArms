@@ -1,18 +1,28 @@
 ### Hey There 👋
 
-I recently decided to pursue software engineering as a career path, so here I am. I started with a couple bootcamp's basic prep courses, and some miscellaneous Youtube videos. I ended up going through one of the bootcamps (Hack Reactor) and am now looking for my first development role!
+I recently decided to pursue software engineering as a career path, so here I am. I started with a couple bootcamp's basic prep courses, and some miscellaneous Youtube videos. I ended up going through one of the bootcampsm, and have now been in the field for a little over a year as of January 2023. 
 
-The primary technologies I am comfortable with can be found down in the technologies section, but I've also got some expeirence with these...
-- MySQL
+The primary technologies and languages I am comfortable with are...
+- React / NextJS
+- JavaScript / TypeScript
+- Node / Express
+- HTML and CSS
+- SCSS
+- styled components
 - MongoDB / Mongoose
+- Postman
+- Robo3T
+- Heroku
+- AWS S3
+
+But I've also got some expeirence with these!
+- Python (algorithm problems and a couple commands in the terminal)
+- Go (debugged a Golang microservice once, would like to learn more)
+- SQL
 - Docker
-- AWS EC2s
 - Artillery.io
 - Webpack
 - Babel
-- TypeScript
-- SCSS
-- styled components
 
 <!--
 **AlexArms/AlexArms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,16 +44,5 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexarms/)
 <!-- [![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/) -->
 
-## Technologies
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
