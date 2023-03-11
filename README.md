@@ -1,8 +1,9 @@
 ### Hey There 👋
 
-I recently decided to pursue software engineering as a career path, so here I am. I started with a couple bootcamp's basic prep courses, and some miscellaneous Youtube videos. I ended up going through one of the bootcampsm, and have now been in the field for a little over a year as of January 2023. 
+I recently decided to pursue software engineering as a career path, so here I am. I started with a couple bootcamp's basic prep courses, and some miscellaneous Youtube videos. I ended up going through one of the bootcampsm, and have now been in the field for a little over a year as of January 2023.
 
 The primary technologies and languages I am comfortable with are...
+- Gitlab / Github / Git
 - React / NextJS
 - JavaScript / TypeScript
 - Node / Express
