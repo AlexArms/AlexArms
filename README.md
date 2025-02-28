@@ -15,11 +15,11 @@ The primary technologies and languages I am comfortable with are...
 - AWS (S3, Lambdas, Athena, Gateway, IAM, Cloudfront, Secrets Manager)
 
 I've also got some expeirence with these (to varying extents)!
-- Python
-- Go
-- Artillery.io
+- Python (a couple data pipelines, and SCTE marker analysis)
+- Go (some work on some simple services)
+- Artillery.io (load testing our servers)
 - Webpack / Babel
-- TSDuck / ffmpeg (did some research on transport streams over multicast feeds)
+- TSDuck / ffmpeg (did some research on transport streams over multicast feeds - load tested ffmpeg on company servers)
 - Gitlab Jobs (debugging and extending preexisting job)
 - Bash scripts (automating stuff like ffmpeg and tsduck commands)
 - Cron jobs
