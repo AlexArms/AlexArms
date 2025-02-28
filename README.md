@@ -1,6 +1,6 @@
 ### Hey There 👋
 
-I recently decided to pursue software engineering as a career path, so here I am. I started with a couple bootcamp's basic prep courses, and some miscellaneous Youtube videos. I ended up going through one of the bootcampsm, and have now been in the field for a little over a year as of January 2023.
+I recently decided to pursue software engineering as a career path. I started with a couple bootcamp's basic prep courses, and some miscellaneous Youtube videos. I ended up going through one of the bootcampsm, and have now been in the field since January 2023.
 
 The primary technologies and languages I am comfortable with are...
 - Gitlab / Github / Git
@@ -8,22 +8,23 @@ The primary technologies and languages I am comfortable with are...
 - JavaScript / TypeScript
 - Node / Express
 - HTML and CSS
-- SCSS
-- styled components
-- MongoDB / Mongoose
+- SCSS, styled components
+- MongoDB / Mongoose / Mongo Atlas / Robot3T
 - Postman
-- Robo3T
 - Heroku
-- AWS S3
+- AWS (S3, Lambdas, Athena, Gateway, IAM, Cloudfront, Secrets Manager)
 
-But I've also got some expeirence with these!
-- Python (algorithm problems and a couple commands in the terminal)
-- Go (debugged a Golang microservice once, would like to learn more)
-- SQL
-- Docker
+I've also got some expeirence with these (to varying extents)!
+- Python
+- Go
 - Artillery.io
-- Webpack
-- Babel
+- Webpack / Babel
+- TSDuck / ffmpeg (did some research on transport streams over multicast feeds)
+- Gitlab Jobs (debugging and extending preexisting job)
+- Bash scripts (automating stuff like ffmpeg and tsduck commands)
+- Cron jobs
+- Android Debugging Bridge and Android device testing
+- I greatly enjoy setting aliases for commands that are annoying or repetitive
 
 <!--
 **AlexArms/AlexArms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
