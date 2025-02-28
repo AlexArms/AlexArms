@@ -14,7 +14,7 @@ The primary technologies and languages I am comfortable with are...
 - Heroku
 - AWS (S3, Lambdas, Athena, Gateway, IAM, Cloudfront, Secrets Manager)
 
-I've also got some expeirence with these (to varying extents)!
+I've also got some expeirence with these to varying extents!
 - Python (a couple data pipelines, and SCTE marker analysis)
 - Go (some work on some simple services)
 - Artillery.io (load testing our servers)
@@ -22,9 +22,9 @@ I've also got some expeirence with these (to varying extents)!
 - TSDuck / ffmpeg (did some research on transport streams over multicast feeds - load tested ffmpeg on company servers)
 - Gitlab Jobs (debugging and extending preexisting job)
 - Bash scripts (automating stuff like ffmpeg and tsduck commands)
-- Cron jobs
+- Cron jobs (one of those data pipelines)
 - Android Debugging Bridge and Android device testing
-- I greatly enjoy setting aliases for commands that are annoying or repetitive
+- I greatly enjoy setting aliases for commands that are annoying or repetitive - ex: just for fun, my git branch command is git brr
 
 <!--
 **AlexArms/AlexArms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
