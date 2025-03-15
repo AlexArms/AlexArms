@@ -24,7 +24,7 @@ I've also got some expeirence with these to varying extents!
 - Bash scripts (automating stuff like ffmpeg and tsduck commands)
 - Cron jobs (one of those data pipelines)
 - Android Debugging Bridge and Android device testing
-- I greatly enjoy setting aliases for commands that are annoying or repetitive - ex: just for fun, my git branch command is git brr, and I have a ```git aci -m "message here"``` command alias which will add everything and commit instead of needing to use both commands separately
+- I greatly enjoy setting aliases for commands that are annoying or repetitive - ex: just for fun, my git branch command is ```git brr```, and I have a ```git aci -m "message here"``` command alias which will add everything and commit instead of needing to use both commands separately
 
 <!--
 **AlexArms/AlexArms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
